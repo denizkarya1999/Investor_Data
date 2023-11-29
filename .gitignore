@@ -1,0 +1,12 @@
+# Ignore CSV files
+*.csv
+
+# Ignore specific CSV files by name or pattern
+data_*.csv
+
+# Ignore CSV files in a specific directory
+/data/*.csv
+
+# Ignore all files in a directory except for a specific CSV file
+/data/*
+!/data/important_data.csv

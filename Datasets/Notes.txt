@@ -1,0 +1,25 @@
+Links for research:
+Kaggle: https://www.kaggle.com/
+Hugging Face: https://huggingface.co/
+
+Potential Thesis: Fast food increases the risk of liver cirrhosis.
+
+Relations:
+Chronic Diseases -> Cholesterol <- Fast Food 
+Cirrhosis -> Cholesterol <- Chronic Diseases
+
+Relevant Variables:
+Fast Food: (Calories, Total Fat, Trans Fat, Cholesterol, Sugar, Weight)
+Chronic Diseases: (Cholesterol, Alcoholism, Cholesterol_Check, BMI, Diabetes, Physical_Activity, Fruit, Health_Care, Mental_Health, Physical_Health, Income)
+Cirrhosis: (Cholesterol, Death Status, Stage)
+
+Dataset available at:
+Cirrhosis Patient Survival: https://www.kaggle.com/datasets/joebeachcapital/cirrhosis-patient-survival-prediction
+Chronic Diseases: https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset
+Fast Food: https://www.kaggle.com/datasets/joebeachcapital/fast-food
+
+Supports for the claim: 
+* https://www.sciencedirect.com/science/article/pii/S1665268119313420
+* https://lipidworld.biomedcentral.com/articles/10.1186/s12944-019-1005-8
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2762152/
+* https://pubmed.ncbi.nlm.nih.gov/22455266/
