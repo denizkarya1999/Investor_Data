@@ -65,3 +65,9 @@ SELECT *
 FROM public.people
 JOIN public.degrees ON public.people.object_id = public.degrees.object_id
 WHERE public.degrees.graduated_at IS NOT NULL AND public.degrees.institution = 'University of Michigan';
+
+-- Count all Computer Science students who have at least bachelor`s degree --
+SELECT *
+FROM public.people
+JOIN public.degrees ON public.people.object_id = public.degrees.object_id
+WHERE public.degrees.graduated_at IS NOT NULL AND public.degrees.subject = 'Computer Science' AND public.people.affiliation_name <> 'Unaffiliated';
