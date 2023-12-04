@@ -1,0 +1,24 @@
+CIS 422 Term Project Notes
+
+Thesis: Economic outlook impacts on the share of global investments
+
+Supporting data and references:
+1- Most student investors are from the United States followed by India and France. Those countries are also member of G20 countries (Referring to G20 Investors Graph, G20 - Web Site https://www.g20.org/en/about-the-g20) 
+2- Most Student Investors are also from Stanford University and Harvard University. Almost all of them are American universities. (Referring to the universities of student investor graph and US News reports https://www.usnews.com/best-colleges/rankings/national-universities)
+3- All top funding companies are based in G20 Countries (Referring to top investment companies in Funds that contributed the most with affiliated people graph)
+   References:
+   Tencent: China - https://www.tencent.com/en-us/about.html
+   Naspers: South Africa (originally), operates globally - https://www.naspers.com/the-group
+   Real Ventures: Canada - https://realventures.com/
+   MMC Ventures: United Kingdom - https://mmc.vc/
+   Lightbank: United States (specifically, Chicago) - https://www.crunchbase.com/organization/lightbank
+   HighBar Partners: United States - https://www.linkedin.com/company/highbarpartners/ 
+   Fidelity Growth Partners: Global operations, headquartered in the United States - https://www.fidelity.com/about-fidelity/our-company
+   Bloomberg LP: Global operations, headquartered in the United States - https://www.linkedin.com/company/bloomberg/
+   Cabiedes and Partners: Spain - http://www.cabiedesandpartners.com/
+   Seedcamp: European-based, primarily operates in various European countries - https://www.linkedin.com/company/seedcamp_2/?originalSubdomain=uk
+4- Most Angel investors are from Western Europe and North America (Referring to Angel Investor and types of investors schema):
+   Real Ventures: Canada - https://realventures.com/
+   Cultivation Capital: United States - https://www.linkedin.com/company/cultivation-capital/
+   Amidzad Partners: United States - http://www.amidzad.com/contact.htm
+   Seedcamp: European-based, primarily operates in various European countries - https://www.linkedin.com/company/seedcamp_2/?originalSubdomain=uk
